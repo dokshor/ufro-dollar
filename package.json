@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jest-cli": "^24.9.0",
     "moment": "^2.24.0",
     "morgan": "^1.9.1",
